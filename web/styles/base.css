@@ -31,10 +31,12 @@ body {
 
 .logo {
   color: var(--logo-text);
+  margin-bottom: 34px;
 }
 
 .logo > img {
   margin-left: 75px;
+  margin-bottom: -25px;
 }
 
 /* === APP === */
@@ -100,6 +102,8 @@ form > button:hover {
 .result {
   margin-top: 32px;
   margin-right: 225px;
+
+  text-align: justify;
 }
 
 /* RESPONSIVITY */
