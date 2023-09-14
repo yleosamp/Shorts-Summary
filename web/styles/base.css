@@ -99,6 +99,10 @@ form > button:hover {
   user-select: none;
 }
 
+.result > p {
+  color: var(--head-text);
+}
+
 .result {
   margin-top: 32px;
   margin-right: 225px;
